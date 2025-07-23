@@ -8,6 +8,7 @@ PHOTO;ENCODING=b:/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQo
 EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:pustoshilov.d@gmail.com
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dpustoshilov@biotc.ru
 TEL;TYPE=CELL:+79105907183
+TEL;TYPE=WORK:+374091035988
 ADR;CHARSET=UTF-8;TYPE=WORK:;;;Moscow;;;Russia
 TITLE;CHARSET=UTF-8:Lead Bioinformatician, Head of Pipelines Development
 ORG;CHARSET=UTF-8:Biotech Campus LLC
@@ -15,6 +16,7 @@ URL;type=WORK;CHARSET=UTF-8:
 NOTE;CHARSET=UTF-8:2025 SMBE, China. "1000 Arctic genomes" project, "100 000+Me" WGS project
 URL;TYPE=github:https://github.com/pustoshilov-d
 URL;TYPE=linkedin:https://www.linkedin.com/in/pustoshilovd
+URL;TYPE=wechat:wechat:pustoshilov_d
 URL;TYPE=facebook:https://www.facebook.com/pustoshilov.d
 REV:2023-03-27T10:56:19.464Z
 END:VCARD
